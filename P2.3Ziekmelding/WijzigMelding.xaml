@@ -1,0 +1,17 @@
+﻿<Window x:Class="P2._3Ziekmelding.WijzigMelding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P2._3Ziekmelding"
+        mc:Ignorable="d"
+        Title="WijzigMelding" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="txtVoornaam" HorizontalAlignment="Left" Margin="252,75,0,0" TextWrapping="Wrap" Text="Voornaam" VerticalAlignment="Top" Height="21" Width="266"/>
+        <TextBlock x:Name="txtAchternaam" HorizontalAlignment="Left" Margin="252,99,0,0" TextWrapping="Wrap" Text="Achternaam" VerticalAlignment="Top" Height="21" Width="266"/>
+        <TextBlock x:Name="txtAfdeling" HorizontalAlignment="Left" Margin="252,127,0,0" TextWrapping="Wrap" Text="Afdeling" VerticalAlignment="Top" Height="20" Width="266"/>
+        <DatePicker x:Name="DateZiek" HorizontalAlignment="Left" Margin="228,222,0,0" VerticalAlignment="Top" Width="325" Height="27"/>
+        <DatePicker x:Name="DateBeter" HorizontalAlignment="Left" Margin="228,272,0,0" VerticalAlignment="Top" Width="325" Height="27"/>
+        <Button x:Name="Opslaan" Content="Opslaan" HorizontalAlignment="Left" Margin="303,341,0,0" VerticalAlignment="Top" Width="129" Click="Opslaan_Click" Height="22"/>
+    </Grid>
+</Window>

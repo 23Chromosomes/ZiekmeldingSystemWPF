@@ -1,0 +1,38 @@
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.exe.config
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.exe
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.pdb
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csprojAssemblyReference.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\MainWindow.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\App.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding_MarkupCompile.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding_MarkupCompile.lref
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\MainWindow.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.g.resources
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2._3Ziekmelding.Properties.Resources.resources
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csproj.GenerateResource.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csproj.CoreCompileInputs.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.exe
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.pdb
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\WijzigMelding.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\WijzigMelding.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\WijzigPersoon.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding\P2.3Ziekmelding\obj\Debug\WijzigPersoon.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.exe.config
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.exe
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\bin\Debug\P2.3Ziekmelding.pdb
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csprojAssemblyReference.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\MainWindow.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\WijzigMelding.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\WijzigPersoon.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\App.g.cs
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding_MarkupCompile.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding_MarkupCompile.lref
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\MainWindow.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\WijzigMelding.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\WijzigPersoon.baml
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.g.resources
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2._3Ziekmelding.Properties.Resources.resources
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csproj.GenerateResource.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.csproj.CoreCompileInputs.cache
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.exe
+C:\Users\odg46\source\repos\P2.3Ziekmelding - kopie\P2.3Ziekmelding\obj\Debug\P2.3Ziekmelding.pdb

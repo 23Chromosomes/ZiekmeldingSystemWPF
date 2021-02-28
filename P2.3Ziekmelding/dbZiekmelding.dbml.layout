@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbZiekmelding">
+  <DataContextMoniker Name="/dbZiekmeldingDataContext" />
+  <nestedChildShapes>
+    <classShape Id="64f02dc8-c541-44f1-a6cc-6a042d4cf673" absoluteBounds="2.375, 1.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbZiekmeldingDataContext/meldingen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f5218131-d5e8-483a-a376-2b6a0bc35732" absoluteBounds="2.39, 2.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71fd8872-3e65-490d-9010-dd7510aadaaf" absoluteBounds="5.75, 1.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbZiekmeldingDataContext/personen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc69e131-6aaf-4d73-b75f-7e2a83557d58" absoluteBounds="5.765, 2.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 2.53929768880208); (4.375 : 2.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbZiekmeldingDataContext/personen/personen_meldingen" />
+      <nodes>
+        <classShapeMoniker Id="71fd8872-3e65-490d-9010-dd7510aadaaf" />
+        <classShapeMoniker Id="64f02dc8-c541-44f1-a6cc-6a042d4cf673" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

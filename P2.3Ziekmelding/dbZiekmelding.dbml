@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ZiekmeldingDB" Class="dbZiekmeldingDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local)\SQLEXPRESS;Initial Catalog=ZiekmeldingDB;Integrated Security=True" SettingsObjectName="P2._3Ziekmelding.Properties.Settings" SettingsPropertyName="ZiekmeldingDBDataContext" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.meldingen" Member="meldingens">
+    <Type Name="meldingen">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="pid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DatumZiek" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DatumBeter" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="personen_meldingen" Member="personen" ThisKey="pid" OtherKey="pid" Type="personen" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.personen" Member="personens">
+    <Type Name="personen">
+      <Column Name="pid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="voornaam" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="achternaam" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="afdeling" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="personen_meldingen" Member="meldingens" ThisKey="pid" OtherKey="pid" Type="meldingen" />
+    </Type>
+  </Table>
+</Database>
